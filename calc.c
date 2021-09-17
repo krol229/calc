@@ -41,10 +41,7 @@ int kub(int a)
    return a*a*a;   
 
 }
-
-
-
-
+//тут типо нада все результаты 
 int main()
 {
    int a = 1000;
